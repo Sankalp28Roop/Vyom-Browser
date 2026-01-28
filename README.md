@@ -1,9 +1,5 @@
 # Vyom Quantum Browser
 
-<p align="center">
-  <img src="Logo_Readme.png" alt="Vyom Quantum Logo" width="200"/>
-</p>
-
 A lightweight, privacy-focused web browser built for macOS (Apple Silicon). Designed to be fast, memory-efficient, and beautiful.
 
 ## System Requirements
@@ -25,7 +21,6 @@ A lightweight, privacy-focused web browser built for macOS (Apple Silicon). Desi
 ## Screenshots
 
 ### Start Page
-![Vyom Quantum Start Page](https://ibb.co/C3zMwS1s)
 *(The browser uses this background for its immersive start experience)*
 
 > Note: For actual app screenshots, please run the app and capture the window!
